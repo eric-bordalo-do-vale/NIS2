@@ -110,15 +110,10 @@ organisationnel avant toute mise en œuvre opérationnelle.
 
 
 
-\- \[Directive (UE) 2022/2555 — NIS2](https://eur-lex.europa.eu/eli/dir/2022/2555/oj?locale=fr)
-
-\- \[ANSSI — Directive NIS 2](https://cyber.sites.beta.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/)
-
-\- \[MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr/)
-
-\- \[ENISA — NIS2](https://www.enisa.europa.eu/topics/nis-directive)
-
-
-
+- [Directive (UE) 2022/2555 — NIS2](https://eur-lex.europa.eu/eli/dir/2022/2555/oj?locale=fr)
+- [ANSSI — Directive NIS 2](https://cyber.sites.beta.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/)
+- [MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr/)
+- [ENISA — NIS2](https://www.enisa.europa.eu/topics/nis-directive)
+- [Énoncé du cas pratique HydroRégie](pdf/NIS2.pdf)
 \---
 
