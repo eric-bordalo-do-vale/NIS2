@@ -1,8 +1,8 @@
-\# Mise en conformité NIS2 — Cas HydroRégie
+# Mise en conformité NIS2 — Cas HydroRégie
 
 
 
-\## Présentation du projet
+## Présentation du projet
 
 
 
@@ -26,7 +26,7 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-\## Objectifs
+## Objectifs
 
 
 
@@ -44,7 +44,7 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-\## Livrables
+## Livrables
 
 
 
@@ -62,7 +62,7 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-\## Principaux constats
+## Principaux constats
 
 
 
@@ -86,7 +86,7 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-\## Limites de l'étude
+## Limites de l'étude
 
 
 
@@ -106,7 +106,7 @@ organisationnel avant toute mise en œuvre opérationnelle.
 
 
 
-\## Références
+## Références
 
 
 
