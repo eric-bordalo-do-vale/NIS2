@@ -76,7 +76,7 @@ production et de la distribution d'eau potable.
 
 
 
-\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent  
+\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent
 
 \*\*Objet :\*\* Alerte précoce NIS2 — Incident cyber significatif — HydroRégie
 
@@ -114,7 +114,7 @@ transfrontière n'est identifié à ce stade.
 
 
 
-\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent  
+\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent
 
 \*\*Objet :\*\* Notification NIS2 — Incident cyber significatif — HydroRégie
 
@@ -158,7 +158,7 @@ potable est maintenue.
 
 
 
-\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent  
+\*\*Destinataire :\*\* Autorité nationale compétente / CSIRT compétent
 
 \*\*Objet :\*\* Rapport final NIS2 — Incident cyber significatif — HydroRégie
 
