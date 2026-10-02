@@ -44,27 +44,16 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-\
 ## Livrables
 
-
-
 | Fichier | Contenu |
-
 | --- | --- |
-
-| \[01-qualification-nis2.md](01-qualification-nis2.md) | Qualification réglementaire d'HydroRégie comme entité essentielle |
-
-| \[02-analyse-ecart-feuille-route.md](02-analyse-ecart-feuille-route.md) | Analyse d'écart au regard de l'article 21 et feuille de route |
-
-| \[03-architecture-it-ot.md](03-architecture-it-ot.md) | Architecture réseau segmentée IT/OT avec DMZ industrielle |
-
-| \[04-gestion-crise-notifications.md](04-gestion-crise-notifications.md) | Gestion de crise cyber et modèles de notifications réglementaires |
-
-
+| [01-qualification-nis2.md](01-qualification-nis2.md) | Qualification réglementaire d'HydroRégie comme entité essentielle |
+| [02-analyse-ecart-feuille-route.md](02-analyse-ecart-feuille-route.md) | Analyse d'écart au regard de l'article 21 et feuille de route |
+| [03-architecture-it-ot.md](03-architecture-it-ot.md) | Architecture réseau segmentée IT/OT avec DMZ industrielle |
+| [04-gestion-crise-notifications.md](04-gestion-crise-notifications.md) | Gestion de crise cyber et modèles de notifications réglementaires |
 
 ## Principaux constats
-
 
 
 \- HydroRégie relève du secteur de l'eau potable et est une entité essentielle.
