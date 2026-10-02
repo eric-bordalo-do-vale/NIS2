@@ -44,13 +44,13 @@ industriels nécessaires à la production et à la distribution d'eau potable.
 
 
 
-## Livrables
+\## Livrables
 
 
 
 | Fichier | Contenu |
 
-|---|---|
+| --- | --- |
 
 | \[01-qualification-nis2.md](01-qualification-nis2.md) | Qualification réglementaire d'HydroRégie comme entité essentielle |
 
@@ -110,10 +110,10 @@ organisationnel avant toute mise en œuvre opérationnelle.
 
 
 
-- [Directive (UE) 2022/2555 — NIS2](https://eur-lex.europa.eu/eli/dir/2022/2555/oj?locale=fr)
-- [ANSSI — Directive NIS 2](https://cyber.sites.beta.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/)
-- [MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr/)
-- [ENISA — NIS2](https://www.enisa.europa.eu/topics/awareness-and-cyber-hygiene/raising-awareness-campaigns/network-and-information-systems-directive-2-nis2)
-- [Énoncé du cas pratique HydroRégie](pdf/NIS2.pdf)
-\---
+* [Directive (UE) 2022/2555 — NIS2](https://eur-lex.europa.eu/eli/dir/2022/2555/oj?locale=fr)
+* [ANSSI — Directive NIS 2](https://cyber.sites.beta.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/)
+* [MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr/)
+* [ENISA — NIS2](https://www.enisa.europa.eu/topics/awareness-and-cyber-hygiene/raising-awareness-campaigns/network-and-information-systems-directive-2-nis2)
+* [Énoncé du cas pratique HydroRégie](pdf/NIS2.pdf)
+---
 
